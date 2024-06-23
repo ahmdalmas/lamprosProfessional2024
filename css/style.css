@@ -6257,6 +6257,7 @@ html:not(.tablet):not(.mobile) .profile-classic-caption {
 
 .profile-creative-main {
 	flex-grow: 1;
+	align-content: center;
 }
 
 .profile-creative-title a {
